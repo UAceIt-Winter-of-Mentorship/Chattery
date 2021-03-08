@@ -1,1 +1,1 @@
-# Chattery
+# Chattery : secure chatting App
